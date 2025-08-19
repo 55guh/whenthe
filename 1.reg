@@ -1,0 +1,20 @@
+Windows Registry Editor Version 5.00
+
+; --- Set Desktop Background Color to #00AA00 ---
+[HKEY_CURRENT_USER\Control Panel\Colors]
+"Background"="0 170 0"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes]
+"Segoe UI"="Comic Sans MS"
+"MS Shell Dlg"="Comic Sans MS"
+"MS Shell Dlg 2"="Comic Sans MS"
+"Tahoma"="Comic Sans MS"
+"Microsoft Sans Serif"="Comic Sans MS"
+
+[HKEY_CURRENT_USER\Control Panel\Desktop\WindowMetrics]
+"CaptionFont"=hex:f1,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,43,6f,6d,69,63,20,53,61,6e,73,20,4d,53,00,00
+"SmCaptionFont"=hex:f1,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,43,6f,6d,69,63,20,53,61,6e,73,20,4d,53,00,00
+"MenuFont"=hex:f1,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,43,6f,6d,69,63,20,53,61,6e,73,20,4d,53,00,00
+"StatusFont"=hex:f1,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,43,6f,6d,69,63,20,53,61,6e,73,20,4d,53,00,00
+"MessageFont"=hex:f1,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,43,6f,6d,69,63,20,53,61,6e,73,20,4d,53,00,00
+
